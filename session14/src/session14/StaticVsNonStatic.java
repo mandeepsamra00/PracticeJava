@@ -78,7 +78,8 @@ public class StaticVsNonStatic {
 		dish1.showDish();	//2
 		dish2.showDish();	//5
 		
-		Dish.showNumberOfDishes();
+		//Dish.showNumberOfDishes();
+		dish1.showNumberOfDishes();
 
 	}
 
